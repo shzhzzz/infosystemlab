@@ -8,6 +8,6 @@ dependencies:
     - matplotlib
     - pillow
     - opencv-python
-    - tensorflow=2.0.0-beta1
+    - tensorflow
     - ipywidgets
     - jupyter_drawing_pad
